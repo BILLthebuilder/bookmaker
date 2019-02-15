@@ -1,0 +1,9 @@
+.center{
+  display: flex;
+  
+}
+
+.card{
+  display: flex;
+  justify-content: space-around;
+}
